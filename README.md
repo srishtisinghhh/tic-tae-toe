@@ -21,8 +21,6 @@ $ npm install
 # Run the app
 $ npm start
 ```
-## :link: Demo
-  - <a target="_blank" href="https://YoucefHmd.github.io/TIC-TAC-TOE-GAME/"> Click Here </a> to see and play by yourself a demo of the game.
 
-## :mailbox: Contact
-  - <a target="_blank" href="mailto:youcef.hammadi.y.s.p@gmail.com">E-mail</a>
+
+
